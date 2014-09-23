@@ -1,0 +1,11 @@
+{
+  "name": "simple-events",
+  "version": "0.0.0",
+  "description": "very simple event management",
+  "main": "simple-events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dievardump",
+  "license": "ISC"
+}
